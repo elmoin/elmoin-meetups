@@ -1,6 +1,6 @@
 # Meetups of Elmoin
 
-Organisation of Elmoin meetings.
+Organisation of [Elmoin meetings](http://www.meetup.com/de-DE/Elmoin/).
 
 ## Any feedback or question?
 
