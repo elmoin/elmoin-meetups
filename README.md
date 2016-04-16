@@ -1,11 +1,5 @@
-# Meetups of Elmoin
+# Elmoin meetups
 
-Organisation of [Elmoin meetings](http://www.meetup.com/de-DE/Elmoin/).
+<img src="https://cdn.rawgit.com/sectore/elmoin-logo-media/master/elmoin-logo.svg" alt="Elmoin logo" width="253" height="240">
 
-## Any feedback or question?
-
-Just open an [issue](./issues).
-
-## Credits
-
-Idea behind this kind of organisation is friendly borrowed from [Elm Copenhagen](https://github.com/elmcph/elmcph) and [Copenhagen Elixir](https://github.com/cphex/cphex).
+Let's organize [Elmoin meetups](http://www.meetup.com/de-DE/Elmoin/) together! Just open an [issue](https://github.com/elmoin/elmoin-meetups/issues) to contribute.
