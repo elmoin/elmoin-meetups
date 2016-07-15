@@ -12,10 +12,10 @@
 
 **TODOS**:
 
-  * [] Talk
-  * [] Topic to hack around
-  * [] Venue
-  * [] Date / Time
-  * [] food / snacks
-  * [] Setup meetup event
-  * [] Twitter announcement
+  * [ ] Talk
+  * [ ] Exercises
+  * [ ] Venue
+  * [ ] Date / Time
+  * [ ] food / snacks
+  * [ ] Setup meetup event
+  * [ ] Twitter announcement
